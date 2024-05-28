@@ -69,7 +69,7 @@ body {
     z-index: 100;
     width: 395px;
     height: 230px;
-    background-image: url(../jinx.jpeg);
+    background-image: url(../assets/jinx.jpeg);
     background-size: cover;
     border-radius: 12px;
     filter: grayscale(100%);
@@ -117,7 +117,7 @@ body {
 }
 
 .container .card2 .pic {
-    background-image: url(../thresh.jpg);
+    background-image: url(../assets/thresh.jpg);
 }
 
 .container .card2 button {
@@ -125,7 +125,7 @@ body {
 }
 
 .container .card3 .pic {
-    background-image: url(../taliyah.jpg);
+    background-image: url(../assets/taliyah.jpg);
 }
 
 .container .card3 button {
@@ -133,7 +133,7 @@ body {
 }
 
 .container .card4 .pic {
-    background-image: url(../zoe.jpg);
+    background-image: url(../assets/zoe.jpg);
 }
 
 .container .card4 button {
